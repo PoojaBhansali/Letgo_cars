@@ -1,0 +1,1499 @@
+1,chrysler 300 ,14995,2013,chrysler,6
+2, chevrolet equinox ls fwd,9991,2010,chevrolet,9
+3, gmc sierra,2500,1984,gmc,35
+4, nissan murano gun metallic hatchback,18810,2016,nissan,3
+5, toyota sienna se,22600,2015,toyota,4
+6, porsche 911 930 turbo,135150,1987,porsche,32
+7, chevrolet c,5000,1989,chevrolet,30
+9," alfa romeo giulia ti sport rwd (1,000 miles)",36000,2018,alfa romeo,1
+10, mazda mazda6 snowflake white pearl mica sedan,15940,2017,mazda,2
+11, dodge challenger torred clearcoat coupe,19970,2016,dodge,3
+12,acura tl ,12792,2012,acura,7
+13, gmc envoy,2600,2004,gmc,15
+14, jeep renegade alpine white hatchback,14690,2015,jeep,4
+15,toyota - camry - ,2000,1999,toyota,20
+16, toyota tacoma regular cab,4500,2001,toyota,18
+17,hyundai elantra gt ,13600,2019,hyundai,0
+18, jeep compass bright white clearcoat hatchback,15360,2016,jeep,3
+19, hyundai genesis 3.8l,12750,2013,hyundai,6
+20, bmw 3 series 330cic,3500,2004,bmw,15
+21, ford fusion,4050,2014,ford,5
+22, toyota camery,4988,2008,toyota,11
+23, gmc terrain dark sapphire blue metallic hatchback,19580,2016,gmc,3
+24, bmw 4 series 428i,24200,2014,bmw,5
+25, honda civic lx,1900,2001,honda,18
+26, dodge ram pickup,12000,1996,dodge,23
+27, vw volkswagen golf alltrack black wagon,18220,2017,volkswagen,2
+28, honda accord lx,12000,2016,honda,3
+29,toyota - camry - ,3999,2001,toyota,18
+30,ford - f-2 - ,6800,2008,ford,11
+31, vw volkswagen golf sportwagen red wagon,15880,2016,volkswagen,3
+32, ford windstar,1300,2003,ford,16
+33, hyundai genesis coupe casablanca white coupe,16250,2015,hyundai,4
+35, toyota pickup,3800,1995,toyota,24
+36,ford - windstar - ,2000,1998,ford,21
+37, mini cooper clubman blue hatchback,18520,2016,mini,3
+38,jeep wrangler unlimited ,20999,2010,jeep,9
+39, toyota camry le,15450,2017,toyota,2
+40, chrysler 300-series 300c,19396,2017,chrysler,2
+41, mercedes-benz sprinter passenger van,35000,2014,mercedes-benz,5
+42,chrysler - lebaron - ,6500,1995,chrysler,24
+43, infiniti g35 coupe leather perf. tire & wheel,10000,2006,infiniti,13
+44, acura integra,2000,1995,acura,24
+45, honda cr-v lx 4wd 5at,4200,2006,honda,13
+47,lincoln - mkz - ,17100,2016,lincoln,3
+48, chevy chevrolet camaro silver ice metallic convertible,19030,2018,chevrolet,1
+49,bmw - x3 - ,4900,2006,bmw,13
+50, volkswagen jetta gls 1.8t 4at,1500,2001,volkswagen,18
+51, chevy chevrolet impala summit white sedan,17390,2018,chevrolet,1
+52, mercedes-benz gle gle 350,38950,2018,mercedes-benz,1
+53, ford fusion black sedan,15750,2017,ford,2
+54, vw volkswagen jetta white sedan,15440,2017,volkswagen,2
+55, honda accord sedan ex,14950,2015,honda,4
+56, chevrolet suburban z71,3800,2002,chevrolet,17
+57, mini cooper,14200,2016,mini,3
+58, volkswagen routan,4050,2009,volkswagen,10
+59, honda accord sedan maroon sedan,17220,2017,honda,2
+60,mercedes-benz s-class ,2500,1998,mercedes-benz,21
+61, ford mustang gt,9500,2006,ford,13
+62, bmw 3 series 328i,12300,2013,bmw,6
+63, bmw 3 series,24899,2015,bmw,4
+64, maserati quattroporte 4dr sdn,18500,2005,maserati,14
+65,bmw 3 series ,6600,2008,bmw,11
+66, chevrolet impala super sport,35990,1965,chevrolet,54
+67, vw volkswagen passat gray sedan,16630,2018,volkswagen,1
+68, ford mustang,7000,2006,ford,13
+69, nissan rogue sl,17900,2016,nissan,3
+70, chevrolet silverado ,2900,1996,chevrolet,23
+71, ford escape white hatchback,19980,2019,ford,0
+72, hyundai sonata hybrid limited,10950,2013,hyundai,6
+73, infiniti qx50 black obsidian hatchback,19780,2016,infiniti,3
+75, nissan sentra silver sedan,11370,2015,nissan,4
+77, mazda mx-5 / miata,2900,1993,mazda,26
+78, chrysler pt cruiser base,1300,2003,chrysler,16
+79, toyota celica,1500,2005,toyota,14
+81, land rover range rover hse 4wd,12900,2012,land rover,7
+82, mercedes-benz c-class,11800,2012,mercedes-benz,7
+83,nissan-rogue-,13990,2017,nissan,2
+84,chevrolet malibu ,10999,2013,chevrolet,6
+85, ford f-250 super duty lariat supercab swb,10000,2005,ford,14
+86, chevrolet corvette,3500,1988,chevrolet,31
+87, chevy chevrolet malibu crystal red tintcoat sedan,19190,2016,chevrolet,3
+88,honda accord sedan ,15999,2018,honda,1
+89, chevrolet tahoe,5800,2002,chevrolet,17
+90, volkswagen passat,1900,2003,volkswagen,16
+91,gmc - sierra - ,2100,1986,gmc,33
+92, toyota camry silver sedan,19380,2018,toyota,1
+93,chevrolet-equinox-,10999,2011,chevrolet,8
+95, ford mustang ,2450,2000,ford,19
+96,ford expedition ,3200,2003,ford,16
+97, chevrolet tahoe 4-wheel drive,2800,2001,chevrolet,18
+98, chrysler 300 billet silver metallic clearcoat sedan,15360,2015,chrysler,4
+101, dodge challenger 100th anniversary appearence group,11000,2014,dodge,5
+102, gmc sierra c sl lwb,3250,1995,gmc,24
+103, vw volkswagen jetta white sedan,15360,2017,volkswagen,2
+104, toyota highlander sport,10950,2008,toyota,11
+105, toyota rav4 hybrid limited,28000,2017,toyota,2
+106,ford - explorer - ,4050,2005,ford,14
+107, jeep grand cherokee laredo,1850,2002,jeep,17
+109, ford focus 5 door hatch se,9999,2014,ford,5
+110,lexus - rx 350 - ,6400,2008,lexus,11
+111, subaru wrx cvt premium,23800,2017,subaru,2
+112,bmw - 3-series - ,3645,1999,bmw,20
+113, jeep cherokee diamond black crystal pearlcoat hatchback,17950,2019,jeep,0
+114, ford explorer (o)eddie bauer,1700,1998,ford,21
+116, ford escape hybrid 4wd,7991,2008,ford,11
+117,infiniti g37 coupe ,14500,2013,infiniti,6
+118, chevrolet c10 fleetside long bed ,8000,1965,chevrolet,54
+119,toyota - rav4 - ,32355,2000,toyota,19
+120, ford focus,1755,2002,ford,17
+121,mercedes-benz clk-class ,4980,2005,mercedes-benz,14
+122,lincoln - town car - ,7695,2004,lincoln,15
+123, dodge challenger header orange coupe,17970,2012,dodge,7
+125,hyundai accent ,7450,2016,hyundai,3
+126, bmw x5,2900,2004,bmw,15
+127, mercedes-benz e-class e 350,16700,2013,mercedes-benz,6
+128, toyota camry 2.4 auto,3400,2008,toyota,11
+129, toyota camry white sedan,17950,2016,toyota,3
+132, nissan xterra se v6 at,3195,2004,nissan,15
+133,hyundai - genesis - ,8900,2016,hyundai,3
+134, toyota corolla s,3400,2001,toyota,18
+135, hyundai tucson,3000,2005,hyundai,14
+136, honda civic hatchback gray hatchback,18460,2017,honda,2
+137,bmw 5 series ,7995,2008,bmw,11
+138, rolls royce silver cloud,39600,1957,rolls royce,62
+139, honda accord,1200,1994,honda,25
+140, vw volkswagen passat tdi se,10950,2013,volkswagen,6
+141,honda - accord - ,2300,1996,honda,23
+142, hyundai tucson chai bronze hatchback,13710,2013,hyundai,6
+144, bmw x3,8999,2008,bmw,11
+145,lexus rx 300 ,3499,2001,lexus,18
+146, dodge ram pickup  regular cab lwb,2000,2000,dodge,19
+147, dodge ram  pickup slt quad cab swb,3500,2004,dodge,15
+149,nissan altima ,11999,2014,nissan,5
+150, chevy chevrolet equinox mosaic black metallic hatchback,19780,2018,chevrolet,1
+151, ford mustang gt tribute,46900,1966,ford,53
+152, honda accord ex-l v6,19994,2017,honda,2
+153, nissan sentra super black sedan,9640,2013,nissan,6
+154, hyundai sonata hybrid limited,12300,2014,hyundai,5
+155, chrysler pt cruiser,2400,2007,chrysler,12
+156,bmw 3 series ,12580,2012,bmw,7
+158, - chevrolet - blazer,5000,1993,chevrolet,26
+159, nissan altima,16990,2018,nissan,1
+160, audi a3 2.0 tdi premium plus s-line,8991,2010,audi,9
+161, ford escape silver hatchback,16910,2018,ford,1
+162,honda 600 - cbr-f3 - ,12672,1997,honda,22
+163,ford-ranger-,10999,2008,ford,11
+164, toyota highlander base,3999,2005,toyota,14
+165, lincoln navigator,79495,2018,lincoln,1
+166, toyota rav4 black hatchback,18810,2017,toyota,2
+167, toyota camry le v6 5at,2000,2004,toyota,15
+169, chevy chevrolet impala silver ice metallic sedan,19190,2018,chevrolet,1
+170,mazda cx-9 ,10995,2012,mazda,7
+171,toyota sienna ,4900,2007,toyota,12
+172, ford,3850,2000,ford,19
+173, honda civic,2000,2004,honda,15
+174, ford f100 1/2 ton,42990,1955,ford,64
+175, nissan sentra gun metallic sedan,11820,2018,nissan,1
+176, toyota camry silver sedan,15430,2017,toyota,2
+177, bmw m4,53600,2018,bmw,1
+178, toyota tacoma xtracab v6,2000,1999,toyota,20
+179,chevrolet tahoe ,13999,2007,chevrolet,12
+181, lexus es,2000,2004,lexus,15
+183, kia sportage mineral silver hatchback,14910,2018,kia,1
+184, chevrolet silverado 2500hd,15000,2007,chevrolet,12
+185, vw volkswagen passat v6 gt,20500,2018,volkswagen,1
+186, bmw 3 series,1600,2003,bmw,16
+187, mini cooper clubman blue hatchback,17970,2016,mini,3
+188, chevrolet trailblazer $ ,2000,2003,chevrolet,16
+189, infiniti qx50 black obsidian hatchback,19410,2016,infiniti,3
+191,honda accord sdn ,9995,2010,honda,9
+192, toyota avalon,2900,2005,toyota,14
+193, chevrolet blazer 4x4,5200,1997,chevrolet,22
+194,chevrolet malibu ,13995,2015,chevrolet,4
+195, audi s4,5400,2004,audi,15
+196, chevrolet tahoe,8550,2005,chevrolet,14
+197, honda accord sedan sport,15250,2015,honda,4
+198,dodge - dakota -  must sell asap,4850,2005,dodge,14
+199, ford escape black hatchback,18740,2019,ford,0
+200,audi a6 ,14495,2012,audi,7
+202, lexus hs 250h,5700,2010,lexus,9
+203, infiniti qx50 majestic white hatchback,19780,2016,infiniti,3
+204, honda civic lx **read first**,2200,2002,honda,17
+205, honda accord ex w/leather,1400,1999,honda,20
+206, volkswagen jetta s,3000,2009,volkswagen,10
+207, - honda - accord,1500,1996,honda,23
+209, jeep renegade alpine white hatchback,16870,2016,jeep,3
+211, - ford - f-150,7800,2008,ford,11
+212,cadillac escalade ext ,15999,2007,cadillac,12
+213, mini copper s convertible,9999,2008,mini,11
+214, nissan sentra 2.0,8350,2012,nissan,7
+215, nissan rogue black hatchback,16170,2014,nissan,5
+216, hyundai elantra,1200,2002,hyundai,17
+217, buick park avenue,1600,1994,buick,25
+218, mazda mazda3 i touring 4-door skyactiv,13200,2015,mazda,4
+219, volkswagen passat,2000,2001,volkswagen,18
+220, buick skylark,1600,1981,buick,38
+221, hyundai elantra electric blue metallic sedan,16120,2017,hyundai,2
+222,mini cooper hardtop ,5540,2010,mini,9
+223, toyota camry gray sedan,17950,2016,toyota,3
+224,jeep wrangler unlimited ,21999,2013,jeep,6
+225,honda - civic - ,2000,1996,honda,23
+226, infiniti m35,5300,2007,infiniti,12
+227, bmw 5 series 550i,2800,2006,bmw,13
+228, toyota 4runner sr5 4x4,3800,1998,toyota,21
+229, honda civic sedan white sedan,17490,2017,honda,2
+230, ford c-max energi sel,1200,2013,ford,6
+231, infiniti g20,1650,1996,infiniti,23
+232, ford f-150 xl supercab flareside,1850,1998,ford,21
+233, honda accord,16999,2017,honda,2
+234, nissan rogue glacier white hatchback,18240,2018,nissan,1
+235,bmw 5 series ,16999,2012,bmw,7
+236, toyota corolla dx,1200,1996,toyota,23
+237, nissan altima sedan 2.5 cvt,7300,2013,nissan,6
+238, subaru impreza price drop!!,6200,2010,subaru,9
+240, volkswagen touareg 4dr tdi exec *ltd avail*,11955,2011,volkswagen,8
+241, toyota tacoma,18500,2013,toyota,6
+242, subaru legacy crystal black silica sedan,15440,2016,subaru,3
+243, kia soul,13988,2016,kia,3
+244, lexus is,4900,2002,lexus,17
+245, infiniti fx45 $4k firm dealsmogged  tags ,4410,2004,infiniti,15
+246, toyota chr silver hatchback,19140,2018,toyota,1
+247,mercedes-benz e-class ,8900,2010,mercedes-benz,9
+249,ford focus ,5999,2010,ford,9
+250, chevrolet classic fleet,1100,2004,chevrolet,15
+251, honda fit silver hatchback,11180,2013,honda,6
+252, chevrolet cruze,13995,2016,chevrolet,3
+253,ford mustang ,3999,2003,ford,16
+254," ford explorer sport trac, adrenalin trim",4000,2005,ford,14
+255, acura tlx,18500,2015,acura,4
+256,lincoln - navigator - ,4300,2002,lincoln,17
+257, mercedes-benz clk-class for sale,3999,2001,mercedes-benz,18
+258, chevrolet impala lt,2700,2008,chevrolet,11
+259, volkswagen passat,2950,2006,volkswagen,13
+260,toyota-rav4-,13990,2014,toyota,5
+261, toyota rav4 blue hatchback,15980,2016,toyota,3
+263, chevrolet suburban,9300,2008,chevrolet,11
+264, honda cr-v,9800,2010,honda,9
+265, chevy chevrolet impala blue ray metallic sedan,16510,2014,chevrolet,5
+266, honda fit,7900,2012,honda,7
+267, nissan versa 1.8 s at,4700,2012,nissan,7
+268, nissan versa note s plus,10950,2017,nissan,2
+269, rolls royce silver cloud ii no trim field,84990,1961,rolls royce,58
+270, gmc envoy,3300,2003,gmc,16
+271,toyota - sequoia - ,6750,2003,toyota,16
+272, mazda mazda6 liquid silver metallic sedan,12680,2015,mazda,4
+274,ford super duty f-550 drw ,14999,2009,ford,10
+275, chevrolet silverado 2500hd,11990,2005,chevrolet,14
+276,gmc - suburban - ,1600,1999,gmc,20
+277,lincoln - town car l series - ,2800,2006,lincoln,13
+278, honda accord sedan black sedan,16890,2016,honda,3
+279,ford f-150 ,27999,2016,ford,3
+280,honda accord sedan ,20999,2019,honda,0
+281, honda civic tagged ,3200,2005,honda,14
+282, kia rio 4cyl automatic with air conditioning c/d with x m radio great gas mileage up to 36 mpg,2800,2010,kia,9
+283, toyota prius hybrid touring,2500,2008,toyota,11
+284, nissan altima 2.5 s with sl package,1500,2005,nissan,14
+285,dodge - dakota - ,2200,1993,dodge,26
+286, - chevrolet - malibu,6500,2010,chevrolet,9
+287,dodge - ram - ,1512,2001,dodge,18
+288, chevrolet silverado  work truck extended cab mwb,9900,2007,chevrolet,12
+289, jeep liberty,5599,2008,jeep,11
+290, gmc acadia awd sle,7500,2012,gmc,7
+291, honda fit ex,16997,2016,honda,3
+292,acura tl ,5900,2005,acura,14
+293,bmw 6 series ,15999,2007,bmw,12
+294, honda civic,3900,2008,honda,11
+296, ford focus white hatchback,12240,2018,ford,1
+297, audi a3 wagon 2.0t tdi 68k miles 40 mpg!,8950,2011,audi,8
+299, ford excursion 137  wb 6.0l special serv 4wd,62449,2004,ford,15
+300, chrysler 300 granite crystal metallic clearcoat sedan,18770,2018,chrysler,1
+301, toyota prius c for sale,9999,2016,toyota,3
+302, hyundai sonata gls i4 a/t pzev,8000,2014,hyundai,5
+303, honda civic sedan gray sedan,16300,2017,honda,2
+304, toyota tacoma,3500,2005,toyota,14
+305,hyundai - elantra / avante - ,4500,2010,hyundai,9
+306, infiniti,15000,2014,infiniti,5
+308, chevrolet suburban,1100,2001,chevrolet,18
+309, lexus ls,6000,2001,lexus,18
+310,toyota land cruiser ,18999,2003,toyota,16
+311, ford mustang,1450,1998,ford,21
+312,kia soul ,7995,2013,kia,6
+313, hyundai santa fe sport moonstone silver hatchback,14650,2014,hyundai,5
+314,ford focus ,7450,2015,ford,4
+315, honda crv black hatchback,17830,2014,honda,5
+316, subaru brz,17000,2016,subaru,3
+317,honda accord sdn ,13999,2013,honda,6
+319, gmc terrain summit white hatchback,19350,2017,gmc,2
+320, ford expedition eddie bauer 4x4,2900,2004,ford,15
+321, ford mustang 4.6 gt premium,3350,2004,ford,15
+322,toyota matrix ,8400,2010,toyota,9
+323, toyota,1800,1997,toyota,22
+324, bmw 2 series m235i,19800,2014,bmw,5
+325, jaguar xj series xj8 l,3800,2007,jaguar,12
+326, chevrolet impala super sport,49990,1964,chevrolet,55
+327, honda civic hybrid cvt w/navi,2900,2008,honda,11
+328, ford mustang $ obo,1800,2002,ford,17
+329, toyota camry black sedan,13850,2015,toyota,4
+330, nissan altima,2900,2010,nissan,9
+332, mercedes-benz e-class,6000,2005,mercedes-benz,14
+333, honda accord sedan silver sedan,19050,2016,honda,3
+334,bmw - 5-series - ,3555,2001,bmw,18
+335, nissan altima 2.5,3800,2008,nissan,11
+336, nissan maxima brilliant silver sedan,19260,2018,nissan,1
+337,audi - a4 - ,2600,2001,audi,18
+338, toyota corolla le,8950,2012,toyota,7
+339, bmw 5 series,4500,2004,bmw,15
+340, chevy chevrolet trax lt,14500,2015,chevrolet,4
+341, toyota camry,2500,2000,toyota,19
+342, toyota camry,5040,2010,toyota,9
+343, jeep wrangler jk unlimited sport,33395,2018,jeep,1
+344, nissan armada,3700,2006,nissan,13
+345, honda accord sedan blue sedan,18560,2016,honda,3
+346, toyota boxtruck,3600,1990,toyota,29
+347, toyota sienna blue mini-van,19930,2015,toyota,4
+348, nissan titan,12000,2008,nissan,11
+349,mercedes-benz 190-series ,14500,1987,mercedes-benz,32
+350,ford explorer ,11991,2013,ford,6
+351,mercedes-benz cla ,35999,2016,mercedes-benz,3
+352, chevrolet bel air,10000,1956,chevrolet,63
+353, buick encore quicksilver metallic hatchback,16460,2016,buick,3
+354, ford mustang gt k code,57900,1965,ford,54
+355, chevrolet custom deluxe,4800,1982,chevrolet,37
+356, toyota prius plugin advanced,10400,2012,toyota,7
+357,jeep - grand cherokee - ,6500,2006,jeep,13
+358, subaru impreza sedan wrx wrx,15900,2012,subaru,7
+359, chevrolet camaro ss/z28 ls1 6 speed pink,4000,1999,chevrolet,20
+360, honda odyssey ex-l ex w/ leather,7991,2007,honda,12
+361, chrysler pt cruiser,2700,2005,chrysler,14
+362, toyota highlander xle,25950,2015,toyota,4
+363, kia soul + 2.0l at,5000,2010,kia,9
+364, vw volkswagen passat white sedan,15950,2017,volkswagen,2
+365,dodge charger ,17999,2018,dodge,1
+366, toyota  siena ,1200,2000,toyota,19
+367, fiat 500,11500,2017,fiat,2
+368, ford taurus black sedan,17430,2018,ford,1
+369, chevrolet uplander ls,1800,2005,chevrolet,14
+370, toyota camry le v6 4at,1200,1999,toyota,20
+371, ford escape gray hatchback,18620,2017,ford,2
+372,cadillac - eldorado - ,18225,1987,cadillac,32
+374, lexus gs,3300,2000,lexus,19
+375,bmw 3 series ,2900,2003,bmw,16
+376, honda accord,3800,2008,honda,11
+377, subaru outback,1500,2000,subaru,19
+378, toyota camry se,4500,2007,toyota,12
+379, hyundai elantra lakeside blue sedan,12980,2018,hyundai,1
+380, ford model a,10000,1928,ford,91
+381, cadillac deville,6000,1979,cadillac,40
+382,dodge dart ,8999,2013,dodge,6
+383, ford focus 5 door hatch se,11800,2016,ford,3
+384, toyota sienna,2500,2000,toyota,19
+385, bmw x1 gray hatchback,16190,2014,bmw,5
+386, toyota prius hybrid,3800,2006,toyota,13
+387, acura rsx 5mt leather,5400,2005,acura,14
+388, nissan xterra,3700,2006,nissan,13
+389, hyundai sonata pacific blue pearl sedan,14380,2014,hyundai,5
+390, toyota camry,3400,2005,toyota,14
+391, dodge ,28350,2008,dodge,11
+393,bmw 3 series ,6900,2007,bmw,12
+394, ford expedition,2500,2001,ford,18
+395, acura cl,2000,1999,acura,20
+396,honda - civic - ,2700,2004,honda,15
+397,ford - mustang - ,7650,2008,ford,11
+398,honda fit ,13750,2016,honda,3
+399, lexus gs 300,3200,2002,lexus,17
+400, mazda mazda3 2.3 mazdaspeed3 sport,4300,2007,mazda,12
+401, volkswagen golf gls,2200,2004,volkswagen,15
+402, volkswagen new beetle,1500,2001,volkswagen,18
+403, subaru legacy carbide gray metallic sedan,16140,2017,subaru,2
+404, ford e-series econoline van,4000,1971,ford,48
+405, nissan frontier,26000,2014,nissan,5
+406, nissan altima java metallic sedan,16150,2016,nissan,3
+407,cadillac escalade ,18999,2011,cadillac,8
+408,audi a3 ,7940,2011,audi,8
+409, porsche 911 carrera cabriolet,5000,2000,porsche,19
+410,nissan-versa-,4995,2008,nissan,11
+411, volkswagen passat,2500,2004,volkswagen,15
+413, dodge challenger srt8,12000,2009,dodge,10
+415, toyota camry 2.4 auto hybrid,5200,2009,toyota,10
+417, honda accord,2600,2001,honda,18
+418, infiniti i30 luxury,2600,2001,infiniti,18
+419, honda crv lx,16400,2014,honda,5
+420, hyundai sonata symphony silver sedan,12850,2015,hyundai,4
+421, buick park avenue,1200,2002,buick,17
+422, bmw x3,3700,2004,bmw,15
+423, acura tl,3300,2006,acura,13
+424,mazda mx-5 miata ,6695,2001,mazda,18
+425, ford deuce no trim field,54990,1932,ford,87
+426, toyota camry standard 4at,2900,2004,toyota,15
+427, chevrolet sonic for sale,6899,2014,chevrolet,5
+428, buick lacrosse,1500,2006,buick,13
+429, kia sorento bright silver hatchback,15630,2015,kia,4
+430,toyota sienna ,4900,2006,toyota,13
+431, chevrolet suburban 4wd  lt,34000,2012,chevrolet,7
+432,acura - tsx - ,3950,2006,acura,13
+433, chevrolet silverado ,13000,2013,chevrolet,6
+434, chevrolet malibu 1lt,3800,2010,chevrolet,9
+435, toyota camry,3000,2000,toyota,19
+436, bmw 3 series,2500,2003,bmw,16
+437, nissan altima,12500,2015,nissan,4
+438, chevrolet impala,2000,2004,chevrolet,15
+439, honda hrv blue hatchback,18410,2016,honda,3
+440, land rover range rover sport,7800,2007,land rover,12
+441, honda accord 3.0 ex 4at w/leather,1700,2001,honda,18
+442, ford mustang v-6,7000,2005,ford,14
+444, nissan sentra super black sedan,11100,2017,nissan,2
+445,chrysler 300 ,6999,2008,chrysler,11
+446,kia - amanti - ,2300,2004,kia,15
+447,toyota rav4 ,7731,2006,toyota,13
+448, hyundai genesis (4.6 v8) low miles 111k,6800,2009,hyundai,10
+449, chevy chevrolet equinox silver ice metallic hatchback,17440,2016,chevrolet,3
+450, toyota camry (hybrid) low miles 148k ,4600,2008,toyota,11
+451, v8 4.6l ford explorer runs great ,2000,2004,ford,15
+452, chevrolet delivery no trim field,39990,1952,chevrolet,67
+453, chevrolet equinox,8500,2015,chevrolet,4
+454, lexus rx 350 gold hatchback,18020,2011,lexus,8
+455, bmw m3 gray,11299,1999,bmw,20
+456, honda accord sedan red sedan,18750,2017,honda,2
+457, bmw x3 3.0si,7500,2008,bmw,11
+458, nissan sentra gun metallic sedan,12850,2018,nissan,1
+459, audi a6 quattro,1200,2001,audi,18
+460,porsche - boxster - ,9000,2006,porsche,13
+461, dodge ram  pickup,20000,2002,dodge,17
+462, volkswagen jetta,4000,2012,volkswagen,7
+463, dodge charger pitch black clearcoat sedan,18150,2016,dodge,3
+464,toyota-avalon-,4990,2003,toyota,16
+465, bmw x1 sdrive28i,12950,2014,bmw,5
+466, honda cr-v lx,23997,2018,honda,1
+467,volkswagen beetle coupe ,10750,2013,volkswagen,6
+468, ford f-350 super duty xlt 7.3 diesel swb,6900,2000,ford,19
+470, nissan versa for sale,3999,2015,nissan,4
+471, fiat 500x grigio graphite (graphite gray) hatchback,15650,2018,fiat,1
+472,ford - explorer - ,25250,2017,ford,2
+473, jeep renegade altitude,15500,2017,jeep,2
+474, toyota venza fwd v6,12000,2009,toyota,10
+475, toyota corolla red sedan,17040,2017,toyota,2
+476, jeep renegade black hatchback,18410,2015,jeep,4
+477,chevrolet camaro ,11500,1991,chevrolet,28
+478, ford edge,16988,2016,ford,3
+479,toyota yaris ,12995,2015,toyota,4
+480, mazda mazda6 sonic silver metallic sedan,19430,2017,mazda,2
+481, toyota 86 860 special edition,23950,2017,toyota,2
+482, buick encore quicksilver metallic hatchback,15940,2016,buick,3
+483,cadillac - escalade - ,18900,2004,cadillac,15
+484,bmw 5 series ,6495,2008,bmw,11
+485, ford explorer sport trac,7200,2007,ford,12
+486, lincoln continental mark iii,15990,1969,lincoln,50
+487, jaguar s-type,3000,2003,jaguar,16
+488, kia sorento ebony black hatchback,15960,2016,kia,3
+489,volvo - xc90 - ,1080,2004,volvo,15
+490, mini cooper-clubman,4455,2009,mini,10
+491, toyota corolla white sedan,14140,2016,toyota,3
+492, ford e-series econoline van,5000,2008,ford,11
+493, honda crv ex,12250,2011,honda,8
+494, bmw 4 series 428i,20650,2015,bmw,4
+495,honda cr-v ,8940,2011,honda,8
+496,hyundai veloster ,6999,2013,hyundai,6
+497,nissan nv200 compact cargo ,18999,2019,nissan,0
+498, toyota corolla gray sedan,15230,2016,toyota,3
+499,dodge - durango - ,2268,2004,dodge,15
+500, bmw 3 series gray sedan,15100,2013,bmw,6
+502, mazda rx8,5000,2006,mazda,13
+503, hyundai tucson winter white solid hatchback,15100,2015,hyundai,4
+504, chevrolet suburban,1800,2000,chevrolet,19
+505,bmw - 7-series - ,14350,2012,bmw,7
+506, toyota corolla le,10950,2013,toyota,6
+507, dodge dart billet silver metallic clearcoat sedan,12470,2014,dodge,5
+508, gmc envoy xl,3299,2002,gmc,17
+509, toyota camry black sedan,17890,2017,toyota,2
+510, ford mustang no trim field,29900,1966,ford,53
+511, chevrolet c10 yenko tribute,36303,1970,chevrolet,49
+512, chevy chevrolet trax summit white hatchback,15810,2017,chevrolet,2
+513,bmw - z4 - ,12900,2012,bmw,7
+514,ford mustang ,15995,2014,ford,5
+515, jeep renegade alpine white hatchback,18430,2018,jeep,1
+516, chevrolet trailblazer 4wd ls,1300,2003,chevrolet,16
+517, chevrolet tahoe ls 4x4,3000,1998,chevrolet,21
+518, ford fiesta,4500,2012,ford,7
+519, lexus rx 450h 450h,24950,2015,lexus,4
+520, dodge charger billet silver metallic clearcoat sedan,19780,2015,dodge,4
+521, nissan maxima se 4d sedan,3800,1996,nissan,23
+522,toyota tacoma ,5999,2013,toyota,6
+523, nissan sentra gun metallic sedan,12150,2018,nissan,1
+524,honda accord sdn ,4900,2008,honda,11
+526, nissan pathfinder moonlight white hatchback,16890,2013,nissan,6
+527,ford-f-350 super duty-,15999,2008,ford,11
+528,ford fiesta ,5980,2012,ford,7
+529, subaru impreza sedan 2.0i,13600,2015,subaru,4
+530, hyundai elantra quartz white pearl sedan,16810,2017,hyundai,2
+531, chevy chevrolet impala mosaic black metallic sedan,18520,2019,chevrolet,0
+532,ford fusion ,14900,2017,ford,2
+533, buick encore quicksilver metallic hatchback,17310,2018,buick,1
+534, chevrolet chevelle street hot rod,55500,1968,chevrolet,51
+535, chevy chevrolet cruze graphite metallic sedan,15810,2018,chevrolet,1
+536, - chevrolet - c/k,2520,1975,chevrolet,44
+538,chevrolet malibu ,12999,2015,chevrolet,4
+539,gmc yukon denali ,8992,2006,gmc,13
+540, mercedes-benz cla 4dr sdn cla 250 4matic,24995,2017,mercedes-benz,2
+541,honda civic coupe ,15999,2014,honda,5
+542, jeep grand cherokee bright white clearcoat hatchback,19140,2015,jeep,4
+543, ford edge black hatchback,15470,2014,ford,5
+544,jeep patriot ,7775,2014,jeep,5
+545,bmw 5 series ,4900,2006,bmw,13
+546,nissan - frontier - ,4000,2003,nissan,16
+547, lincoln navigator,1250,1997,lincoln,22
+548, audi s4 4.2l v8 sedan - registered until 11/20 - title in hand,7000,2004,audi,15
+549, honda accord ex,2800,2003,honda,16
+550,cadillac dts ,9999,2011,cadillac,8
+551, chevrolet classic,4000,1925,chevrolet,94
+552, nissan pathfinder,6500,2002,nissan,17
+553, hyundai elantra 1.8 limited a/t,7500,2015,hyundai,4
+554,jaguar - xk8 - ,6995,1998,jaguar,21
+555, ford windstar van,1900,2003,ford,16
+557,chevrolet - advance design - ,10000,1949,chevrolet,70
+558, chrysler 300,4250,2006,chrysler,13
+559,"*** silver, mid-size mazda3 sport w/extra's***",16800,2017,mazda,2
+560, ford,4000,1925,ford,94
+562,chevrolet - el camino - ,4500,1976,chevrolet,43
+563, subaru outback,2400,2000,subaru,19
+564, dodge caliber,2500,2007,dodge,12
+565, gmc sierra ,6000,2005,gmc,14
+566, toyota tacoma,8500,2013,toyota,6
+567, honda civic,2800,2000,honda,19
+568, ford explorer,4410,2007,ford,12
+569, chrysler 300,18000,2014,chrysler,5
+570, bmw 3 series,4200,2004,bmw,15
+571, toyota 4runner,7500,1997,toyota,22
+572, gmc suburban,1360,1992,gmc,27
+573, nissan 350z base mt,3000,2004,nissan,15
+574, honda civic si,2400,2003,honda,16
+575, bmw 3 series,1100,2001,bmw,18
+576, chevrolet c/k,10000,1963,chevrolet,56
+577, mitsubishi lancer white sedan,12810,2017,mitsubishi,2
+579,dodge - avenger - ,1100,2009,dodge,10
+580, volkswagen gti,3500,2009,volkswagen,10
+582, volkswagen jetta,1620,2001,volkswagen,18
+583,chevrolet - avalanche - ,1500,2002,chevrolet,17
+584,toyota - gts - ,3400,2000,toyota,19
+585, nissan xterra,1850,2006,nissan,13
+586, chevrolet silverado,5999,2001,chevrolet,18
+587,toyota - prius - ,5800,2005,toyota,14
+588, nissan titan xe 4x4 king cab,5000,2004,nissan,15
+589,ford - explorer - ,1200,1998,ford,21
+590, chevrolet suburban,4998,2001,chevrolet,18
+591, ford f-150,4500,2005,ford,14
+592, chrysler 300 velvet red pearlcoat sedan,18240,2016,chrysler,3
+593,gmc - sierra - ,14000,2004,gmc,15
+594, toyota prius four,20950,2017,toyota,2
+595,ford explorer ,19750,2017,ford,2
+596,hyundai-elantra touring-,6999,2010,hyundai,9
+597, mazda cx5 grand select,23800,2017,mazda,2
+598, vw volkswagen golf sportwagen gray wagon,17790,2018,volkswagen,1
+599, jeep compass trailhawk,23950,2017,jeep,2
+600, chevrolet impala,36049,1964,chevrolet,55
+601, jaguar xj series,4500,1999,jaguar,20
+602,dodge - ram - ,11500,2006,dodge,13
+603, infiniti qx50,23698,2016,infiniti,3
+604, subaru impreza,5200,2001,subaru,18
+605, infiniti qx50 majestic white hatchback,19380,2016,infiniti,3
+606,honda civic coupe ,15480,2016,honda,3
+607, ford f-250,2000,1980,ford,39
+608,toyota camry ,13999,2015,toyota,4
+609, honda accord sedan lx,12550,2014,honda,5
+610, bmw 3 series,2500,1997,bmw,22
+611, ford f-250 diesel7.3 torbo engine,7400,1991,ford,28
+612, subaru outback ll bean,4900,2005,subaru,14
+613, - toyota - tacoma,5500,2002,toyota,17
+614, nissan xterra xe v6,3500,2002,nissan,17
+615, mazda 626,2200,2000,mazda,19
+616, chevy chevrolet trax cyber gray metallic hatchback,13240,2016,chevrolet,3
+617, honda fit orange hatchback,14720,2018,honda,1
+618,chevrolet tahoe ,13999,2009,chevrolet,10
+619, bmw 7 series 750li,4800,2006,bmw,13
+620, gmc sierra c sl club coupe lwb,2200,1997,gmc,22
+621, infiniti g35 sport coupe,7000,2004,infiniti,15
+622, toyota prius gray hatchback,18940,2016,toyota,3
+623, honda civic,2750,2005,honda,14
+624, ford escape gray hatchback,18740,2019,ford,0
+625, mazda mpv,2750,2006,mazda,13
+626, honda civic sedan ex-t,17950,2017,honda,2
+627, acura rdx,11000,2010,acura,9
+628, chevrolet silverado,2000,2000,chevrolet,19
+629, buick regal quicksilver metallic sedan,18590,2016,buick,3
+630, mini cooper,2800,2004,mini,15
+631, ford mustang,7500,1992,ford,27
+632, acura cl type s,2500,2002,acura,17
+633,cadillac - escalade - ,5100,2004,cadillac,15
+634, jeep grand cherokee laredo,4100,2005,jeep,14
+635, ford focus silver sedan,11740,2018,ford,1
+636,ford explorer ,17999,2014,ford,5
+637,ford - e-series - ,12000,1993,ford,26
+638, honda civic,2100,1997,honda,22
+639, hyundai genesis 3.8l,12400,2014,hyundai,5
+640, chrysler town & country,4777,2008,chrysler,11
+641, chevrolet c,2000,1994,chevrolet,25
+642, nissan rogue pearl white hatchback,16090,2016,nissan,3
+643, lexus rx 350 base awd 4dr suv,7500,2007,lexus,12
+644, vw volkswagen jetta sedan silver sedan,12460,2016,volkswagen,3
+645, nissan armada se 4x2,5000,2006,nissan,13
+646, nissan altima,3499,2003,nissan,16
+647, audi a4,4000,2005,audi,14
+648, infiniti g35,4699,2005,infiniti,14
+649, mazda mazda5 touring,9950,2012,mazda,7
+650, jeep renegade alpine white hatchback,18780,2018,jeep,1
+651,ford f-150 ,27999,2019,ford,0
+652, chevrolet avalanche 2wd avalanche w/1ls,12000,2007,chevrolet,12
+653, honda accord lx,4950,2005,honda,14
+654, honda civic,15999,2018,honda,1
+655, honda accord se sedan at,6991,2007,honda,12
+656, nissan altima,3299,2005,nissan,14
+657, honda accord,5499,2007,honda,12
+658, honda accord,2500,1998,honda,21
+659, chrysler 300 billet silver metallic clearcoat sedan,19860,2018,chrysler,1
+660, ford focus,3199,2007,ford,12
+661, ford f-150,3400,2001,ford,18
+662, toyota corolla blue sedan,15100,2016,toyota,3
+663, mercedes-benz e-class white sedan,19140,2014,mercedes-benz,5
+664,toyota corolla ,15777,2016,toyota,3
+665, nissan rogue silver     ( [phone number hidden] ‬,4900,2008,nissan,11
+666, bmw 3 series,4499,2006,bmw,13
+667,chevrolet cc ,17500,4500,chevrolet,-2481
+668, honda fit gray hatchback,14650,2017,honda,2
+669, ford aerostar van,1400,1996,ford,23
+670, toyota camry white sedan,16930,2017,toyota,2
+671, mazda rx-8 6mt,4700,2005,mazda,14
+672, honda civic,3199,2002,honda,17
+673, nissan murano brilliant silver metallic hatchback,19000,2018,nissan,1
+674, caddy cadillac ats mocha steel metallic sedan,15680,2014,cadillac,5
+675, ford mustang,3000,2002,ford,17
+676, vw volkswagen beetle convertible silver convertible,14670,2015,volkswagen,4
+677, mazda mazda6 liquid silver metallic sedan,13630,2014,mazda,5
+678, vw volkswagen tiguan white hatchback,15710,2017,volkswagen,2
+679, nissan rogue magnetic black hatchback,16450,2016,nissan,3
+680, suzuki aerio,2000,2005,suzuki,14
+681, ford aerostar van,1295,1996,ford,23
+682, toyota camry white sedan,16590,2017,toyota,2
+683, nissan murano brilliant silver metallic hatchback,18810,2018,nissan,1
+684, ford mustang,2500,2002,ford,17
+685, vw volkswagen beetle convertible silver convertible,14520,2015,volkswagen,4
+686, mazda mazda6 liquid silver metallic sedan,13290,2014,mazda,5
+687, cadillac cts,6000,2011,cadillac,8
+688, lexus is 250 250,14950,2012,lexus,7
+689, vw volkswagen tiguan white hatchback,15550,2017,volkswagen,2
+690,mazda - mx-5 / miata - ,6000,1990,mazda,29
+691, nissan rogue magnetic black hatchback,16290,2016,nissan,3
+692, toyota corolla le,11200,2014,toyota,5
+694, vw volkswagen jetta sedan gray sedan,15710,2016,volkswagen,3
+695, ford ranger super cab xl supercab 2wd,7991,2008,ford,11
+696, toyota avalon xls bucket,3800,2001,toyota,18
+697, toyota rav4 silver hatchback,18950,2017,toyota,2
+698, bmw x1 xdrive28i,14500,2014,bmw,5
+699, fiat 500 rosso brillante (red tri-coat) hatchback,10740,2015,fiat,4
+700, ford f-350 super duty,11900,2004,ford,15
+701, acura tl 3.2l 6 cylinder vtec,2700,2004,acura,15
+702, chevrolet c,3900,1995,chevrolet,24
+703, honda civic,5495,2009,honda,10
+704, honda odyssey lx,3450,2003,honda,16
+705, ford escape red hatchback,18980,2017,ford,2
+706,chevrolet traverse ,12999,2014,chevrolet,5
+707, ford taurus gray sedan,17460,2018,ford,1
+708, lexus es es 350 fwd,26555,2017,lexus,2
+709, honda accord ex,3000,2005,honda,14
+710, ford expedition,3100,2004,ford,15
+711, chevy chevrolet cruze arctic blue metallic sedan,14630,2018,chevrolet,1
+712, chevrolet silverado ,10500,2010,chevrolet,9
+713, dodge journey sxt awd,19000,2018,dodge,1
+714,jeep wrangler ,28995,2018,jeep,1
+715,chevrolet monte carlo ,3800,2004,chevrolet,15
+716, ford escape blue hatchback,17980,2018,ford,1
+717, mazda mazda3 5door sport,14950,2017,mazda,2
+719, toyota rav4 white hatchback,19980,2018,toyota,1
+720, ford focus,3780,2012,ford,7
+721, lexus is,7800,2007,lexus,12
+722, ford escape red hatchback,18590,2016,ford,3
+723, ford mustang,8000,1993,ford,26
+724, bmw 3-series,3000,1992,bmw,27
+725, chevrolet trailblazer,1600,2004,chevrolet,15
+726, bmw 310r,4198,2019,bmw,0
+727,toyota - corolla - ,2000,1996,toyota,23
+728, fiat 500 grigio (grey) convertible,8800,2012,fiat,7
+729, dodge challenger sxt,18950,2016,dodge,3
+731, nissan rogue sv,13950,2014,nissan,5
+732, audi tt,62091,2008,audi,11
+733, hyundai accent se,9200,2016,hyundai,3
+734,audi a3 ,9999,2012,audi,7
+735, honda cr-v,4000,2001,honda,18
+736, ford edge sel,15291,2016,ford,3
+737,subaru xv crosstrek ,13495,2014,subaru,5
+738, nissan rogue glacier white hatchback,18800,2018,nissan,1
+739, - toyota - tacoma,4600,2001,toyota,18
+740, honda accord coupe white coupe,16250,2015,honda,4
+741, suzuki gsx-r750,10498,2018,suzuki,1
+742, lexus is,26400,2018,lexus,1
+743, jeep grand cherokee maximum steel metallic hatchback,18620,2013,jeep,6
+744, scion xb base,2500,2004,scion,15
+745, chevrolet camaro,7200,1977,chevrolet,42
+746, lincoln town car ,3800,1996,lincoln,23
+747,acura mdx ,8999,2011,acura,8
+748, toyota rav4 black hatchback,18620,2016,toyota,3
+749, dodge ram  pickup,9999,2003,dodge,16
+750, mercedes-benz c-class,3800,2004,mercedes-benz,15
+752, ford five hundred sel,2300,2007,ford,12
+753, chrysler pacifica brilliant black crystal pearlcoat hatchback,17840,2017,chrysler,2
+754, gmc yukon,2250,1998,gmc,21
+755, nissan altima glacier white sedan,15160,2016,nissan,3
+756, hyundai sonata urban sunset sedan,14570,2015,hyundai,4
+757, ford fusion silver sedan,16240,2016,ford,3
+758, porsche panamera turbo,132500,2018,porsche,1
+759,chevrolet camaro ,13999,2013,chevrolet,6
+760, gmc yukon 2wd sle,4300,2004,gmc,15
+761, infiniti m,2000,2006,infiniti,13
+762, dodge durango deep cherry red crystal pearlcoat hatchback,19980,2014,dodge,5
+763,ford f-150 ,9991,2004,ford,15
+764,suzuki - samurai -  ,4900,1988,suzuki,31
+765,bmw - 5-series -  ,4000,2005,bmw,14
+766,ford edge ,18475,2018,ford,1
+767, ford f-250,2000,1990,ford,29
+768, chevrolet bel air no trim field,36990,1954,chevrolet,65
+769, chevy chevrolet impala nightfall gray metallic sedan,19260,2019,chevrolet,0
+770, ford explorer xlt,17950,2014,ford,5
+771, ford cmax hybrid silver hatchback,13290,2015,ford,4
+772, audi a6,6500,2006,audi,13
+773, honda crv ex,21550,2017,honda,2
+774,nissan - pathfinder - ,2590,1997,nissan,22
+775, mercedes-benz e-class 4dr sdn e 350 luxury rwd,13600,2012,mercedes-benz,7
+776, gmc sierra slt  crew cab z71,5750,2005,gmc,14
+777,bmw - 3-series - ,4500,2007,bmw,12
+778, hyundai sonata lakeside blue sedan,19180,2017,hyundai,2
+779,ford-mustang-,13990,2013,ford,6
+780, acura mdx,2250,2002,acura,17
+781, mazda mx5 miata club,16750,2015,mazda,4
+782, honda accord sedan blue sedan,16150,2015,honda,4
+784, jag jaguar xj xjl supercharged,33500,2015,jaguar,4
+785, ford escape black hatchback,13880,2014,ford,5
+786, acura legend,1500,1995,acura,24
+787, toyota prius two,15950,2016,toyota,3
+788,mercedes-benz s-class ,27500,2014,mercedes-benz,5
+789,toyota - mr2 - ,4400,1991,toyota,28
+790,dodge challenger ,14999,2012,dodge,7
+791,ford - mustang - ,8000,2005,ford,14
+792, mazda mazda3 4door soul red metallic sedan,15650,2018,mazda,1
+793,ford fusion ,9500,2013,ford,6
+794, mitsubishi eclipse (o)gsx,2800,1998,mitsubishi,21
+795, ford escape,4000,2009,ford,10
+796, hyundai tucson ash black hatchback,19190,2016,hyundai,3
+797,chevrolet - avalanche - ,4001,2002,chevrolet,17
+799, ford mustang,4000,1997,ford,22
+800, dodge challenger billet clearcoat coupe,19190,2016,dodge,3
+801,dodge - ramcharger - ,1800,1985,dodge,34
+802,bmw 3 series ,4900,2007,bmw,12
+803, gmc sierra ,1900,1993,gmc,26
+804, ford mustang white coupe,19980,2007,ford,12
+805,jeep compass ,19999,2019,jeep,0
+808,audi q5 ,11880,2011,audi,8
+809, jeep grand cherokee,17900,2014,jeep,5
+810, kia sorento snow white pearl hatchback,16780,2016,kia,3
+811, porsche panamera 4 e-hybrid,98950,2018,porsche,1
+812,audi a7 ,25995,2014,audi,5
+813, chevrolet silverado ,15000,2008,chevrolet,11
+814,chevrolet malibu ,5200,2012,chevrolet,7
+815, dodge journey vice white hatchback,19190,2018,dodge,1
+816,dodge - ram - ,5000,2001,dodge,18
+817, chevrolet suburban  4wd,4991,2003,chevrolet,16
+818, dodge journey crew,12950,2013,dodge,6
+819, ford fusion black sedan,15750,2016,ford,3
+820,nissan - altima - ,2000,2004,nissan,15
+821, acura tl 3.5 type-s w/navi & hpt,2500,2007,acura,12
+822, land rover range rover sport hse,3000,2006,land rover,13
+823, jeep cherokee light brownstone pearlcoat hatchback,19780,2019,jeep,0
+824, scion ia silver sedan,13180,2016,scion,3
+825, chrysler imperial crown,44990,1962,chrysler,57
+826," honda accord, very low miles, clean title, led lights in/out must sell!",4100,2002,honda,17
+827,toyota rav4 ,17450,2018,toyota,1
+828, dodge challenger,35499,2017,dodge,2
+829, bmw 3 series 323i,2000,1999,bmw,20
+830, kia forte lx,11650,2017,kia,2
+831, honda civic sdn lx,8950,2012,honda,7
+832, hyundai elantra mineral beige sedan,13290,2017,hyundai,2
+833,mercedes-benz - c-class cabriolet - ,3150,2004,mercedes-benz,15
+834, vw volkswagen golf sportwagen silver wagon,15840,2015,volkswagen,4
+835, nissan maxima pearl white sedan,19190,2016,nissan,3
+836,volvo xc60 ,11995,2011,volvo,8
+837,honda odyssey ,3300,2000,honda,19
+838,honda-civic-,13990,2016,honda,3
+839, chevrolet 210,25200,1955,chevrolet,64
+840,volvo - s70 - ,2500,1998,volvo,21
+841,kia-optima-,9990,2013,kia,6
+842, dodge grand caravan se,15588,2015,dodge,4
+843,cadillac - sts - ,1260,2009,cadillac,10
+844, ford escape gray hatchback,18980,2017,ford,2
+845, kia sorento ex 5at 4wd,2500,2006,kia,13
+846, bmw g310r,4198,2018,bmw,1
+847, chevrolet camaro ss 396 clone,49990,1967,chevrolet,52
+848, bmw 328i,7400,2011,bmw,8
+849,subaru impreza wagon ,16499,2016,subaru,3
+850, ford mustang,7250,2006,ford,13
+851, nissan rogue sport palatial ruby hatchback,17480,2017,nissan,2
+852, jeep cherokee billet silver metallic clearcoat hatchback,16110,2014,jeep,5
+853, honda odyssey ex-l,15950,2011,honda,8
+854, toyota sienna black mini-van,19950,2015,toyota,4
+855, nissan quest,1350,2006,nissan,13
+856, mini cooper countryman black hatchback,17500,2016,mini,3
+857, chevy chevrolet camaro ss,22950,2013,chevrolet,6
+858,chevrolet silverado 2500hd built after aug 14 ,34999,2015,chevrolet,4
+859, acura tl,2500,2001,acura,18
+860, toyota sienna for sale,9899,2014,toyota,5
+861, chrysler 300s clean title ,18999,2016,chrysler,3
+862, hyundai veloster 1.6 value edition dct,13690,2017,hyundai,2
+863, chevrolet silverado  lt double cab std box,22890,2015,chevrolet,4
+865, gmc yukon slt 4wd,31890,2015,gmc,4
+866, chevy chevrolet equinox silver ice metallic hatchback,16260,2016,chevrolet,3
+867, dodge ram  pickup,3800,2005,dodge,14
+868, chevrolet equinox,1004,2006,chevrolet,13
+869,toyota camry ,12998,2016,toyota,3
+870,kia optima hybrid ,11998,2016,kia,3
+871,toyota corolla ,12998,2017,toyota,2
+872, chevy chevrolet trax nightfall gray metallic hatchback,17490,2018,chevrolet,1
+873,ford fusion ,13998,2016,ford,3
+874, hyundai santa fe mineral gray hatchback,13520,2012,hyundai,7
+875, hyundai elantra 2.0 auto gls,3000,2008,hyundai,11
+876,mercedes-benz c-class ,4980,2002,mercedes-benz,17
+877,lexus-is 250-,10999,2008,lexus,11
+878, toyota camry silver sedan,15360,2014,toyota,5
+879,bmw 3 series ,12495,2014,bmw,5
+880, chevrolet silverado  lt 4x4 extended cab lwb,1038,2000,chevrolet,19
+881, gmc acadia slt,17350,2014,gmc,5
+882,scion tc ,10100,2014,scion,5
+883, honda fit,13250,2015,honda,4
+884, mini clubman blue hatchback,19380,2017,mini,2
+885, - chevrolet - malibu,5103,2011,chevrolet,8
+886,honda civic sdn ,3900,2005,honda,14
+887,dodge dakota ,6991,2003,dodge,16
+888, jeep renegade colorado red hatchback,15550,2016,jeep,3
+889, ford torino gt,59990,1969,ford,50
+890, ford escape white hatchback,19030,2019,ford,0
+891,hyundai elantra ,13995,2016,hyundai,3
+892,honda civic sedan ,11940,2016,honda,3
+893,toyota camry ,14999,2015,toyota,4
+894, ford edge gray hatchback,19980,2015,ford,4
+895, honda accord,1440,2002,honda,17
+896, toyota camry white sedan,19580,2017,toyota,2
+897,chevrolet-silverado -,13990,3500,chevrolet,-1481
+898,honda civic sdn ,11375,2013,honda,6
+899, ford focus yellow hatchback,15070,2013,ford,6
+900, jeep wrangler,5500,1994,jeep,25
+901,chevrolet lumina ,8500,1992,chevrolet,27
+902, chevy chevrolet equinox summit white hatchback,18980,2018,chevrolet,1
+903, toyota prius c three,11991,2014,toyota,5
+904, honda civic sedan lx,15350,2017,honda,2
+905, jeep grand cherokee brilliant black crystal pearlcoat hatchback,19000,2016,jeep,3
+906, mazda mazda3 i touring,8600,2012,mazda,7
+907, ford mustang white convertible,19260,2016,ford,3
+908, lexus rx for sale,6399,2006,lexus,13
+909,dodge journey ,13999,2017,dodge,2
+911, mazda cx5 crystal white mica hatchback,17880,2015,mazda,4
+912, mini cooper hardtop 4 door,13200,2015,mini,4
+913,volvo - xc90 -  - v8 - awd,2695,2006,volvo,13
+914,hyundai - elantra / avante - ,4995,2016,hyundai,3
+915, ford f-150,15988,2012,ford,7
+916,volkswagen eos ,7999,2012,volkswagen,7
+917, ford fusion hybrid white sedan,14970,2018,ford,1
+918, chevy chevrolet impala silver ice metallic sedan,18370,2018,chevrolet,1
+920, ferrari 430 2dr cpe berlinetta f1 transmission,115950,2007,ferrari,12
+921, honda civic sedan lx,17350,2018,honda,1
+922, infiniti q50 moonlight white sedan,18750,2015,infiniti,4
+923, gmc yukon denali xl ,3915,2005,gmc,14
+924,volkswagen jetta ,12999,2019,volkswagen,0
+925, volvo xc60 gray hatchback,18350,2014,volvo,5
+926, lincoln mark lt,3000,2006,lincoln,13
+927, honda cr-v,3500,2000,honda,19
+928, lexus rx,26495,2016,lexus,3
+929, vw volkswagen egolf black hatchback,17830,2017,volkswagen,2
+931,ford - f-150 - ,7300,2001,ford,18
+932, bmw 5 series,3000,2002,bmw,17
+933, nissan altima,5900,2012,nissan,7
+934, toyota camry,11500,2014,toyota,5
+935, bmw 7 series,3999,2007,bmw,12
+936, honda accord coupe black coupe,19450,2015,honda,4
+938, ford ranger,2200,1995,ford,24
+939,mitsubishi - lancer - ,1760,2003,mitsubishi,16
+940,chevrolet - silverado - ,2520,2003,chevrolet,16
+941, toyota prius c four,12550,2015,toyota,4
+942, mercedes-benz cls-class,20000,2006,mercedes-benz,13
+943, volkswagen jetta,2520,2001,volkswagen,18
+944, dodge grand caravan activan ,2800,1997,dodge,22
+945, bmw 5-series,2880,1993,bmw,26
+947,bmw - 530i - ,2100,2003,bmw,16
+948, mazda mazda3,5500,2009,mazda,10
+949, chevrolet silverado,5500,2001,chevrolet,18
+951, bmw 3-series,5500,1987,bmw,32
+952, nissan maxima,1850,2000,nissan,19
+953, toyota camry standard,2600,2005,toyota,14
+954, ford f-1,2400,1981,ford,38
+956, chrysler sebring touring,1200,2006,chrysler,13
+957, ford mustang gray convertible,18750,2015,ford,4
+958, bmw x5,5800,2005,bmw,14
+960, volkswagen passat,1600,2003,volkswagen,16
+961, jeep cherokee diamond black crystal pearlcoat hatchback,19750,2019,jeep,0
+962, volvo v70,1200,1998,volvo,21
+963, lincoln mkz green sedan,16780,2015,lincoln,4
+964, nissan rogue sv,16950,2016,nissan,3
+965,"car for sale :--  toyota camry se, excellent condition",6800,2009,toyota,10
+966,mazda mazda3 ,6495,2008,mazda,11
+967,volvo - c70  hardtop/convertible.,5950,2008,volvo,11
+968, volkswagen new beetle,3500,2000,volkswagen,19
+969,jeep - wrangler - ,5750,2009,jeep,10
+970, kia rio 4at,1100,2004,kia,15
+971, honda civic sedan black sedan,19430,2016,honda,3
+972, honda accord sdn lx,9350,2012,honda,7
+973, bmw 3 series,9950,2013,bmw,6
+974,subaru - legacy outback ,3950,2008,subaru,11
+975, toyota corolla,1080,1996,toyota,23
+976, toyota prius 4d hatchback,11991,2013,toyota,6
+977, mercedes-benz cls-class,5700,2006,mercedes-benz,13
+978, lexus rx,3000,2002,lexus,17
+979, ford escape maroon hatchback,19480,2017,ford,2
+980, toyota camry,1500,1997,toyota,22
+981, jeep renegade glacier metallic hatchback,15190,2016,jeep,3
+982, scion fr-s,16995,2016,scion,3
+983,ford focus ,5999,2014,ford,5
+984, toyota highlander plus,16650,2013,toyota,6
+985,ford f-150 ,9500,2007,ford,12
+986,chevrolet equinox ,10999,2012,chevrolet,7
+987, honda hrv silver hatchback,18460,2016,honda,3
+989,ford focus ,3999,2003,ford,16
+990, kia optima,14988,2016,kia,3
+991, nissan rogue gun metallic hatchback,18520,2017,nissan,2
+992, honda element,4700,2004,honda,15
+993, gmc sierra,3500,1995,gmc,24
+994, kia rio,3500,2006,kia,13
+995, kia soul shadow black hatchback,12050,2016,kia,3
+996, chrysler town & country,3500,2002,chrysler,17
+998, subaru forester,9000,2009,subaru,10
+999,volvo-s70-,2990,2000,volvo,19
+1000, dodge challenger pitch black clearcoat coupe,19980,2016,dodge,3
+1001, chevy chevrolet traverse blue velvet metallic hatchback,19930,2016,chevrolet,3
+1002,honda - civic - ,8950,2012,honda,7
+1003, bmw 328i 328i,15395,2014,bmw,5
+1004, acura tl 3.2 type-s,2000,2002,acura,17
+1005,toyota - prius - ,22082,2010,toyota,9
+1006, jeep cherokee billet silver metallic clearcoat hatchback,16570,2015,jeep,4
+1008, honda accord sedan lx,13300,2014,honda,5
+1009, toyota chr blue hatchback,19350,2018,toyota,1
+1010, chevrolet silverado ,22100,2014,chevrolet,5
+1011, toyota camry l,13250,2014,toyota,5
+1012, honda accord sedan ex-l 1.5t,24200,2018,honda,1
+1014, buick encore coastal blue metallic hatchback,19940,2018,buick,1
+1015,audi-tt-,4990,2001,audi,18
+1016, tesla model s performance,37950,2013,tesla,6
+1017, ford custom country squire,69990,1951,ford,68
+1018, ford mustang black convertible,17950,2015,ford,4
+1019,chevrolet traverse ,12995,2011,chevrolet,8
+1020,kia sorento ,19450,2019,kia,0
+1021, honda hrv silver hatchback,19370,2018,honda,1
+1022, jeep grand cherokee,9700,2011,jeep,8
+1023, jeep grand cherokee overland,21650,2014,jeep,5
+1024, gmc sierra,1100,1988,gmc,31
+1025, audi a3,4000,2007,audi,12
+1026, bmw 3 series,4000,2004,bmw,15
+1027, vw volkswagen passat black sedan,16470,2017,volkswagen,2
+1028, chevrolet chevette,8550,1976,chevrolet,43
+1029,subaru - wrx - ,22500,2016,subaru,3
+1031, chrysler 300 maximum steel metallic clearcoat sedan,19350,2018,chrysler,1
+1032, lexus is 250 250,17900,2014,lexus,5
+1033,honda - civic - ,2600,1995,honda,24
+1034, fiat 500 sport,6900,2012,fiat,7
+1035, audi a4 premium,18350,2016,audi,3
+1037,scion tc ,5991,2005,scion,14
+1038, ford fusion blue sedan,16960,2018,ford,1
+1039,dodge avenger ,4500,2011,dodge,8
+1040, dodge grand caravan billet clearcoat hatchback,17490,2018,dodge,1
+1041, subaru wrx,19950,2016,subaru,3
+1042, volkswagen tiguan,4950,2009,volkswagen,10
+1043,kia optima ,16777,2016,kia,3
+1044,maserati granturismo ,47450,2015,maserati,4
+1045, buick enclave carbon black metallic hatchback,16040,2012,buick,7
+1046, nissan rogue magnetic black hatchback,18750,2018,nissan,1
+1047, honda africa twin,10998,2017,honda,2
+1048, ford ranger,10300,2008,ford,11
+1049, toyota corolla white sedan,16750,2018,toyota,1
+1050, dodge charger,4000,2007,dodge,12
+1051, gmc terrain ebony twilight metallic hatchback,19260,2017,gmc,2
+1052, mazda rx-8,2400,2004,mazda,15
+1053, vw volkswagen jetta sportwagen black hatchback,11980,2014,volkswagen,5
+1054,hyundai-sonata-,10990,2013,hyundai,6
+1055, vw volkswagen jetta sedan 1.4t s,10500,2016,volkswagen,3
+1056,honda civic cpe ,3500,2005,honda,14
+1057,honda accord cpe ,3900,2007,honda,12
+1058, toyota sienna,3500,2003,toyota,16
+1059, hyundai tucson ash black hatchback,19470,2016,hyundai,3
+1060, toyota prius hatchback iii,13991,2013,toyota,6
+1061, honda crv lx,15250,2015,honda,4
+1062, chevrolet bel air,48899,1955,chevrolet,64
+1063, hyundai sonata quartz white pearl sedan,17230,2017,hyundai,2
+1065,honda cr-v ,17475,2018,honda,1
+1066,chevrolet - equinox - ,4000,2007,chevrolet,12
+1067, hyundai tucson limited,18500,2016,hyundai,3
+1070, kia cadenza smokey blue sedan,16270,2015,kia,4
+1071, kia optima,16749,2018,kia,1
+1072,chevrolet malibu ,13995,2017,chevrolet,2
+1073, volkswagen jetta,11500,2016,volkswagen,3
+1074, chevy chevrolet traverse blue velvet metallic hatchback,18940,2015,chevrolet,4
+1075, ford fusion titanium,11600,2014,ford,5
+1076, ford mustang gt 5.0,6500,1991,ford,28
+1077,ford edge ,9500,2011,ford,8
+1078, dodge grand caravan billet clearcoat hatchback,16100,2018,dodge,1
+1079,ford - f-150 - ,2511,1987,ford,32
+1082,toyota - pickup - ,3420,1987,toyota,32
+1083,chevrolet - silverado - ,7650,2006,chevrolet,13
+1084, hyundai elantra gt,7800,2014,hyundai,5
+1085, ford mustang,7000,1992,ford,27
+1086, audi a3 brown sedan,17950,2016,audi,3
+1087, chevrolet silverado,3500,1991,chevrolet,28
+1088, chevrolet silverado,1500,1991,chevrolet,28
+1089, subaru brz dark gray metallic coupe,19050,2014,subaru,5
+1090,audi a3 ,8940,2012,audi,7
+1091,bmw 5 series ,6999,2009,bmw,10
+1092, chevrolet chevelle super sport,59990,1970,chevrolet,49
+1093, bmw 5 series,2800,2000,bmw,19
+1094,dodge charger ,17995,2015,dodge,4
+1095,ford super duty f-250 srw ,41999,2018,ford,1
+1096, toyota prius black hatchback,18410,2016,toyota,3
+1097, honda accord,2900,2003,honda,16
+1098,audi q5 ,29999,2017,audi,2
+1100, hyundai santa fe sport frost white pearl hatchback,16950,2014,hyundai,5
+1101,ford fusion ,2900,2006,ford,13
+1102,honda - odyssey (north america) - ,5760,2006,honda,13
+1103, chevrolet s-10,2500,1996,chevrolet,23
+1104, bmw 3 series,3800,2006,bmw,13
+1105, dodge journey white hatchback,17950,2016,dodge,3
+1106,ford edge ,8999,2008,ford,11
+1107, bmw 3 series,7000,2007,bmw,12
+1108, honda civic vp,3500,2004,honda,15
+1109, bmw 3 series 328i,11750,2013,bmw,6
+1110,honda accord sdn ,14999,2013,honda,6
+1111, bmw 745li,1800,2003,bmw,16
+1112, volkswagen gti,5499,2010,volkswagen,9
+1113, jeep grand cherokee,2000,2002,jeep,17
+1114, fisker karma 4dr sdn ecochic,47000,2012,fisker,7
+1115, chevrolet suburban,6800,2008,chevrolet,11
+1116, fiat 124 spider grigio argento (aluminum) convertible,19100,2017,fiat,2
+1117, bmw 3 series,5440,2007,bmw,12
+1118, toyota camry black sedan,16780,2016,toyota,3
+1119, kia forte for sale,8499,2014,kia,5
+1120, ford f-150,25400,2017,ford,2
+1121,chevrolet tahoe ,9500,2003,chevrolet,16
+1122, ford f-150,3000,1998,ford,21
+1123, volkswagen new beetle,3000,2004,volkswagen,15
+1124, dodge grand caravan billet clearcoat hatchback,16630,2018,dodge,1
+1125, mercedes-benz clk 500,2880,2004,mercedes-benz,15
+1126, toyota prius,10900,2016,toyota,3
+1128, toyota venza silver hatchback,15790,2015,toyota,4
+1129, chevrolet silverado ,26514,2017,chevrolet,2
+1130, ford explorer,1699,2000,ford,19
+1131, honda civic ex,1500,1999,honda,20
+1132,subaru legacy ,17999,2018,subaru,1
+1133,bmw - 3-series -  328is coupe,2700,1997,bmw,22
+1135, bmw 3 series,4900,2006,bmw,13
+1136, toyota sienna,4000,2006,toyota,13
+1137, nissan murano tinted bronze metallic hatchback,15760,2014,nissan,5
+1138, mini hardtop 4 door white hatchback,19580,2019,mini,0
+1139, honda accord sedan red sedan,19950,2017,honda,2
+1140, dodge a100,1800,1989,dodge,30
+1141,honda - civic - ,2000,1998,honda,21
+1142,ford escape ,8500,2013,ford,6
+1143,ford fusion energi ,10500,2013,ford,6
+1144,honda accord cpe ,8992,2012,honda,7
+1145,ford mustang ,7999,2007,ford,12
+1146,nissan altima ,6999,2010,nissan,9
+1147,toyota prius ,9991,2013,toyota,6
+1148,ford ranger ,8991,2002,ford,17
+1149,gmc yukon xl denali ,10999,2007,gmc,12
+1150,toyota camry ,7999,2005,toyota,14
+1151, bmw 3 series,2200,2002,bmw,17
+1152, toyota chr white hatchback,19330,2018,toyota,1
+1153, audi a4 1.8t,4500,2004,audi,15
+1155, dodge grand caravan,12900,2016,dodge,3
+1157, dodge dakota,2800,2001,dodge,18
+1158, dodge grand caravan white knuckle clearcoat hatchback,16470,2018,dodge,1
+1159, kia niro ex,21600,2018,kia,1
+1160,ford - escape - ,3300,2006,ford,13
+1162, honda cr-v lx 4wd,2450,2001,honda,18
+1163, lexus rx 300,3500,2000,lexus,19
+1164, toyota rav4 black hatchback,17980,2017,toyota,2
+1165, lincoln mks v6 fwd,6500,2009,lincoln,10
+1166, hyundai santa fe sport platinum graphite hatchback,19380,2016,hyundai,3
+1167,jeep cherokee ,13995,2015,jeep,4
+1168, toyota sienna,3500,2002,toyota,17
+1169,ford super duty f-250 ,14992,2004,ford,15
+1170, toyota supra mk iii turbo,18000,1989,toyota,30
+1171, bmw 4 series 428i,19950,2016,bmw,3
+1172,dodge journey ,15999,2018,dodge,1
+1173, gmc sierra,3900,1997,gmc,22
+1174, honda pilot,2850,2004,honda,15
+1175, honda accord sedan silver sedan,19190,2017,honda,2
+1176, hyundai accent,1750,2003,hyundai,16
+1177, ford f-100,8000,1973,ford,46
+1178, scion - fr-s $1 obo,15000,2016,scion,3
+1179,bmw 6 series ,26995,2014,bmw,5
+1180, hyundai tucson ash black hatchback,19580,2016,hyundai,3
+1181,volkswagen cc ,7999,2012,volkswagen,7
+1182, acura tl white sedan,15100,2013,acura,6
+1183, ford 81a deluxe body club,54990,1938,ford,81
+1184, chevrolet tahoe,3000,2002,chevrolet,17
+1185, gmc envoy,3500,2002,gmc,17
+1186, scion tc coupe,9991,2013,scion,6
+1187, mazda mazda6 i touring,14300,2015,mazda,4
+1188, honda hrv black hatchback,18750,2016,honda,3
+1189,ford - e-series - ,4500,2005,ford,14
+1191,lexus-gs 350-,7999,2010,lexus,9
+1192, honda accord,1100,1994,honda,25
+1193,cadillac srx ,9950,2011,cadillac,8
+1194, nissan frontier,3600,2004,nissan,15
+1195, dodge grand caravan granite pearlcoat hatchback,16470,2018,dodge,1
+1196, honda cbr300r,3598,2015,honda,4
+1197,jeep patriot ,13999,2014,jeep,5
+1198,bmw - 3-series - ,4200,2001,bmw,18
+1199,chevrolet - c-10 - ,12600,1967,chevrolet,52
+1200, honda civic ex,17599,2016,honda,3
+1201, ford mustang,5000,2002,ford,17
+1203,ford-f-250 super duty-,10999,2002,ford,17
+1204, gmc yukon xl,4000,2003,gmc,16
+1205, kia forte,1500,2010,kia,9
+1207,honda cr-v ,5980,2004,honda,15
+1208, nissan altima,4000,2012,nissan,7
+1209, ford mustang v6 ,1200,2000,ford,19
+1210, mercedes-benz 190sl no trim field,125990,1962,mercedes-benz,57
+1211, ford,2250,1946,ford,73
+1212, toyota prius four,14500,2014,toyota,5
+1213, honda civic,1200,2002,honda,17
+1214,acura rl ,8999,2005,acura,14
+1215, chevrolet colorado 4wd lt crew cab short box,24000,2016,chevrolet,3
+1216, toyota t100 sr5 4x4 xtracab,4000,1998,toyota,21
+1217, mazda cx3 eternal blue mica hatchback,19930,2018,mazda,1
+1218, honda fit ex,17250,2018,honda,1
+1219,volkswagen tiguan ,9980,2012,volkswagen,7
+1220, kia rio lx,8450,2013,kia,6
+1221, caddy cadillac srx black raven hatchback,18610,2015,cadillac,4
+1222,chevrolet - camaro - ,1500,1991,chevrolet,28
+1223, bmw 3 series,5500,2004,bmw,15
+1224, lexus gs 300 sport design,3500,2003,lexus,16
+1225, toyota rav4 xle,17500,2015,toyota,4
+1226, subaru outback premium,23550,2018,subaru,1
+1227,ford super duty f-250 srw ,36999,2018,ford,1
+1228,audi - a4 - ,4800,2006,audi,13
+1229, ford explorer xls,2100,2002,ford,17
+1230, rover ,3500,1980,rover,39
+1231, honda odyssey,2400,2005,honda,14
+1232, nissan altima,2000,2004,nissan,15
+1233, chrysler 300 granite crystal metallic clearcoat sedan,16960,2016,chrysler,3
+1234, infiniti g35 coupe,3500,2005,infiniti,14
+1235, bmw 4 series,18995,2015,bmw,4
+1236,ford - crown victoria - ,1750,2009,ford,10
+1237, toyota camry,3600,2009,toyota,10
+1238,mercedes-benz c-class ,7999,2005,mercedes-benz,14
+1239, ford galaxie 500 xl no trim field,36990,1963,ford,56
+1240, toyota rav4 base 14 4wd,10991,2012,toyota,7
+1241, nissan rogue palatial ruby hatchback,19190,2017,nissan,2
+1242, chevy chevrolet cruze silver ice metallic sedan,15200,2017,chevrolet,2
+1243, honda cr-v for sale,3799,1998,honda,21
+1244,bmw 5 series ,13999,2012,bmw,7
+1245,honda accord coupe ,13995,2014,honda,5
+1246, bmw 5 series 525i,3800,2004,bmw,15
+1247, bmw 3 series,3000,2003,bmw,16
+1248,nissan-sentra-,4990,2006,nissan,13
+1249, mazda mx5 miata rf grand touring,22200,2017,mazda,2
+1250, honda cr-v,10900,2013,honda,6
+1253,ford-explorer-,4999,2004,ford,15
+1254, mazda mazda6 s sports sedan,6991,2008,mazda,11
+1255, toyota highlander limited,28500,2016,toyota,3
+1256, subaru wrx premium,16950,2015,subaru,4
+1257,toyota tacoma ,6850,2005,toyota,14
+1258, kia sorento ebony black hatchback,13080,2014,kia,5
+1259,ford edge ,16999,2016,ford,3
+1260, toyota 4runner,7000,2003,toyota,16
+1261, honda civic,6300,2012,honda,7
+1262, dodge charger,3200,2007,dodge,12
+1263, honda civic,3800,1998,honda,21
+1264, chrysler town and country brilliant black crystal pearlcoat,18750,2016,chrysler,3
+1265, toyota tacoma,6995,2008,toyota,11
+1266,jeep - cherokee - ,3000,2001,jeep,18
+1267,nissan - armada - ,4950,2008,nissan,11
+1268, dodge journey,5200,2010,dodge,9
+1269, chevrolet el camino malibu,7000,1968,chevrolet,51
+1270, bmw 3 series,3500,2000,bmw,19
+1271, chevrolet astro base,2700,2000,chevrolet,19
+1272, chevy chevrolet camaro silver ice metallic coupe,19580,2014,chevrolet,5
+1273, lincoln navigator luxury 4x2,2000,2003,lincoln,16
+1274, jeep liberty,3500,2002,jeep,17
+1275, nissan pathfinder,2800,1998,nissan,21
+1276, chevrolet colorado,5800,2004,chevrolet,15
+1277, honda accord sdn lx,8450,2009,honda,10
+1278, honda fit gray hatchback,12470,2013,honda,6
+1279, chevrolet suburban,4600,2002,chevrolet,17
+1280, dodge ram  pickup,31000,2006,dodge,13
+1281, ford mustang gray convertible,19580,2017,ford,2
+1282,volkswagen passat ,10450,2016,volkswagen,3
+1283, toyota tundra,4300,2000,toyota,19
+1284,honda civic sdn ,11899,2013,honda,6
+1285, vw volkswagen jetta sedan black sedan,12110,2015,volkswagen,4
+1286,porsche cayenne ,7250,2006,porsche,13
+1288,scion xb ,5999,2008,scion,11
+1289, subaru impreza 2.5 wrx,9700,2009,subaru,10
+1290, chevy chevrolet camaro summit white coupe,16190,2014,chevrolet,5
+1293, chrysler 300 base,4000,2006,chrysler,13
+1294,honda civic ,3300,2002,honda,17
+1295, ford expedition eddie bauer,1400,2002,ford,17
+1296, mercedes-benz s-class,5900,2003,mercedes-benz,16
+1297, buick cascada summit white convertible,18620,2016,buick,3
+1298,ford - f-150 - ,5000,2000,ford,19
+1300, chrysler 300 granite crystal metallic clearcoat sedan,19930,2018,chrysler,1
+1301, audi s8,4000,2002,audi,17
+1302, ford edge maroon hatchback,15360,2013,ford,6
+1303, ford edge blue hatchback,19980,2016,ford,3
+1304, hyundai sonata,15000,2015,hyundai,4
+1305, toyota highlander xle,22300,2015,toyota,4
+1306, nissan quest 3.5 se,1500,2005,nissan,14
+1307, ford edge black hatchback,18880,2015,ford,4
+1308, cadillac escalade,15000,2009,cadillac,10
+1309, cadillac escalade,4500,2001,cadillac,18
+1310,ford-excursion-,5990,2000,ford,19
+1311, ford f-150,28250,2012,ford,7
+1312, chevy chevrolet malibu atlantis blue metallic sedan,14520,2015,chevrolet,4
+1313, mini kuper,4600,2006,mini,13
+1314, chevrolet c10 1/2 ton,29900,1968,chevrolet,51
+1315,ford - excursion - ,8000,2004,ford,15
+1316, hyundai sonata,3600,2009,hyundai,10
+1317,maserati granturismo ,47995,2015,maserati,4
+1318, honda accord sedan white sedan,16950,2015,honda,4
+1319,jaguar - mark ii - ,35505,1962,jaguar,57
+1320,honda accord sdn ,7940,2012,honda,7
+1321,honda  coupe lx- accord - ,2500,2005,honda,14
+1322,scion fr-s ,17000,2015,scion,4
+1323, buick verano quicksilver metallic sedan,13770,2014,buick,5
+1324,mazda mazda3 ,6999,2010,mazda,9
+1325, chevrolet equinox ls 4dr suv,12991,2015,chevrolet,4
+1326,volkswagen passat ,9775,2013,volkswagen,6
+1327,nissan altima ,10999,2014,nissan,5
+1329, honda accord lx 1.5t,20996,2018,honda,1
+1330,mercedes-benz gl-class ,19800,2014,mercedes-benz,5
+1331,chevrolet traverse ,14995,2013,chevrolet,6
+1332, nissan frontier glacier white pickup,19580,2017,nissan,2
+1333,mazda cx-7 ,4900,2007,mazda,12
+1334,cadillac - eldorado - ,3000,1997,cadillac,22
+1335, subaru legacy,16615,2017,subaru,2
+1336, toyota rav4 silver hatchback,16960,2017,toyota,2
+1337, chrysler town & country for sale,1799,2001,chrysler,18
+1338, jeep renegade alpine white hatchback,17790,2018,jeep,1
+1339, toyota camry gray sedan,17620,2016,toyota,3
+1340, acura tl,6000,2006,acura,13
+1341, ford fiesta orange hatchback,15750,2016,ford,3
+1342,porsche - cayenne - ,11900,2008,porsche,11
+1343, ford fiesta,6000,2011,ford,8
+1344, honda cr-v ex 2wd,22995,2017,honda,2
+1345,dodge - charger - ,4500,2006,dodge,13
+1346,ford - explorer - ,1600,1999,ford,20
+1347, buick encore ebony twilight metallic hatchback,15950,2017,buick,2
+1348, jaguar xe 25t prestige,14800,2017,jaguar,2
+1350, nissan xterra,6900,2013,nissan,6
+1351, gmc savana cargo,1500,1999,gmc,20
+1352, mercedes-benz e-class gray sedan,18350,2013,mercedes-benz,6
+1353, gmc sonoma sls regular cab lwb,2000,2000,gmc,19
+1354, chevrolet suburban,1500,2001,chevrolet,18
+1355, nissan pathfinder se 4x4 at,1200,1996,nissan,23
+1356, ford mustang trade for harley,4000,1995,ford,24
+1357,acura - integra - ,1440,1999,acura,20
+1358, ferrari 360 modena f1,89990,2000,ferrari,19
+1359, toyota camry black sedan,16610,2017,toyota,2
+1360, honda crv lx,9500,2010,honda,9
+1361, toyota corolla le,10200,2011,toyota,8
+1362, honda cbr300r,3999,2018,honda,1
+1363, bmw 3 series silver sedan,17230,2015,bmw,4
+1365, dodge challenger pro touring,59990,1973,dodge,46
+1366,dodge-ram pickup -,11990,2500,dodge,-481
+1367, mini cooper,2200,2003,mini,16
+1368,lincoln mkx ,11999,2011,lincoln,8
+1369, ford mustang black convertible,19550,2018,ford,1
+1370, vw volkswagen tiguan s,13350,2015,volkswagen,4
+1371, bmw x3 three months warranty!,10888,2014,bmw,5
+1372, chevrolet hhr,3900,2006,chevrolet,13
+1373, ford crown victoria,1200,1995,ford,24
+1374, audi a3 black sedan,16970,2016,audi,3
+1375, subaru impreza sport,21728,2018,subaru,1
+1376, ford mustang,15000,1973,ford,46
+1377, dodge grand caravan granite pearlcoat hatchback,17490,2018,dodge,1
+1378,nissan altima ,13999,2018,nissan,1
+1379, chrysler 200,9450,2016,chrysler,3
+1380, vw volkswagen passat silver sedan,14220,2015,volkswagen,4
+1381, ford mustang,6000,2002,ford,17
+1383, nissan juke gun metallic hatchback,10370,2014,nissan,5
+1384, dodge dakota,3900,2000,dodge,19
+1385, subaru xv crosstrek limited,18950,2015,subaru,4
+1386,subaru outback ,4999,2008,subaru,11
+1388,honda - civic - ,1800,2000,honda,19
+1389,honda civic ,3350,2003,honda,16
+1390,chevrolet - tahoe - ,10500,2007,chevrolet,12
+1391, ford f-150,2800,2003,ford,16
+1392, chevy chevrolet cruze gold mist metallic sedan,9950,2011,chevrolet,8
+1393,ford - galaxie - ,3500,1964,ford,55
+1394, nissan versa sedan brilliant silver sedan,9040,2017,nissan,2
+1395,audi a5 ,12995,2011,audi,8
+1396, honda civic coupe ex-t,16950,2016,honda,3
+1397, chevy chevrolet malibu silver ice metallic sedan,16480,2016,chevrolet,3
+1398,hyundai elantra touring ,7500,2011,hyundai,8
+1399, ford thunderbird,2500,1966,ford,53
+1400, gmc terrain onyx black hatchback,18520,2016,gmc,3
+1401, toyota highlander purple hatchback,18410,2012,toyota,7
+1402, nissan sentra sv,10200,2016,nissan,3
+1403,mercedes-benz c-class ,31999,2017,mercedes-benz,2
+1404,buick-lacrosse-,5990,2007,buick,12
+1405, toyota camry white sedan,19780,2018,toyota,1
+1406, gmc,3500,1962,gmc,57
+1408, mazda mazda3,3550,2005,mazda,14
+1410, gmc sierra  denali 4x4 4dr crew cab 5.8 ft. sb,28995,2015,gmc,4
+1411, chevy chevrolet cruze black hatchback,16460,2018,chevrolet,1
+1412, hyundai sonata,5000,2011,hyundai,8
+1413, jeep grand cherokee granite crystal metallic clearcoat hatchback,16380,2014,jeep,5
+1414,ford mustang ,19450,2019,ford,0
+1415, dodge challenger bright white clearcoat coupe,18200,2016,dodge,3
+1416, jeep cherokee bright white clearcoat hatchback,14230,2014,jeep,5
+1417, acura mdx 3.7l,15350,2011,acura,8
+1418, chevrolet hhr lt,6991,2011,chevrolet,8
+1419, mazda mazda6 soul red metallic sedan,13520,2015,mazda,4
+1420, ford mustang no trim field,24990,1966,ford,53
+1422, jeep compass,7000,2014,jeep,5
+1423, fiat 500 verde oliva (olive green) hatchback,9260,2012,fiat,7
+1424,cadillac deville ,3400,2003,cadillac,16
+1425, hyundai tucson molten silver hatchback,19400,2018,hyundai,1
+1426,honda accord sdn ,4500,2003,honda,16
+1427, ford focus white hatchback,11860,2018,ford,1
+1428, jeep renegade alpine white hatchback,17380,2017,jeep,2
+1429, ford focus sel,8950,2012,ford,7
+1430, acura mdx,3000,2003,acura,16
+1431,jeep patriot ,14999,2014,jeep,5
+1432, dodge challenger r/t,17600,2013,dodge,6
+1433, honda pilot touring,34636,2017,honda,2
+1434, jeep grand cherokee bright white clearcoat hatchback,19980,2014,jeep,5
+1435, nissan versa sedan fresh powder sedan,9760,2018,nissan,1
+1436,chevrolet-corvette-,34999,2014,chevrolet,5
+1437,hyundai elantra ,12375,2019,hyundai,0
+1438, caddy cadillac xts radiant silver metallic sedan,18070,2015,cadillac,4
+1439, ford escape titanium,18650,2017,ford,2
+1440, honda crv touring,21250,2016,honda,3
+1442, chevy chevrolet equinox silver ice metallic hatchback,15980,2018,chevrolet,1
+1443, chevrolet chevelle super sport,59990,1968,chevrolet,51
+1444,honda civic sedan ,14999,2017,honda,2
+1445,mazda - mx-5 / miata - ,1800,1990,mazda,29
+1446, ford mustang red coupe,19980,2017,ford,2
+1447, toyota rav4 gray hatchback,19430,2015,toyota,4
+1448, nissan nv200 compact cargo fresh powder hatchback,19980,2019,nissan,0
+1449, infiniti qx50 black obsidian hatchback,19980,2017,infiniti,2
+1450, volkswagen glx vr6,2695,2001,volkswagen,18
+1451,jeep grand cherokee ,18299,2013,jeep,6
+1452, hyundai equus signature,16450,2012,hyundai,7
+1453,ford - mustang - ,4995,1999,ford,20
+1454,honda-accord crosstour-,11999,2010,honda,9
+1455, honda accord sedan black sedan,16360,2016,honda,3
+1456,mini cooper hardtop ,8999,2008,mini,11
+1457,toyota-corolla-,10990,2015,toyota,4
+1458, jeep grand cherokee altitude,33000,2018,jeep,1
+1459,chevrolet tahoe ,18999,2013,chevrolet,6
+1460, ford coupe,36146,1932,ford,87
+1461,acura mdx ,6600,2004,acura,15
+1462, honda fit gray hatchback,16150,2016,honda,3
+1463,volkswagen - corrado - ,4400,1993,volkswagen,26
+1464, kia sportage,1800,2011,kia,8
+1465, porsche 911 carrera 2dr coupe turbo,138850,1989,porsche,30
+1466, ford mustang white convertible,18800,2018,ford,1
+1467,must go  nissan altima financing available,3500,2003,nissan,16
+1468, ford escape black hatchback,19980,2019,ford,0
+1469, ford f-150 xlt regular cab 145-in styleside,1800,2007,ford,12
+1470, honda accord,5999,2005,honda,14
+1472, ford fusion gray sedan,16000,2016,ford,3
+1473, ford crown victoria,2475,2011,ford,8
+1474,honda - accord - ,1600,2005,honda,14
+1475, subaru wrx wr blue pearl sedan,19940,2018,subaru,1
+1476,financing nice”  toyota tacoma   warranty*. b/o,4410,2006,toyota,13
+1477,"b/o  toyota - tacoma srs extra cab low miles  “warranty""",5000,2001,toyota,18
+1478,"financing  clean  ford ranger xlt extended cab ""super low"" 36k miles *warranty.b/o",6400,2005,ford,14
+1479,financing   nissan murano suv mint condition * warranty b/o,3780,2006,nissan,13
+1481,ford - ranger - ,2100,1996,ford,23
+1482,*“free labor” lifetime            warranty with             ask price paid** mint   toyota tacoma b/o need gone asap,7000,2006,toyota,13
+1483,nice  bmw 325 ci convertible must go. financing available!!,3500,2004,bmw,15
+1484,sweet  toyota tacoma crew cab must go financing available,11200,2010,toyota,9
+1485, honda civic,1800,1998,honda,21
+1486,rare  chevrolet  longbed pick up /financing - b/o,9000,1949,chevrolet,70
+1487,one owner   honda accord  special edition financing available & lifetime warranty,5950,2012,honda,7
+1488, chevrolet - camaro. z28 must go. financing available !,5000,2001,chevrolet,18
+1490,financing mint   bmw 328i 2 door warranty b/o,7695,2008,bmw,11
+1491, chevrolet impala,36654,1963,chevrolet,56
+1492,volkswagen - new beetle - ,5800,2008,volkswagen,11
+1495,"grandpa’s   chevrolet nova (complete)straight,  nice condition b/o",3500,1962,chevrolet,57
+1496,financing! b/o mint  bmw x-drive 28i twin turbo. must go!,24000,2017,bmw,2
+1497,mint  jaguar xj6 vanderplas *trade truck = value / ** lifetime warranty included!,3500,1989,jaguar,30
+1498,"financing!  mint like new   honda civic cl  great clean like new, . b/o",9499,2008,honda,11
+1499,financing classic  chevrolet  c20  *warranty,10500,1962,chevrolet,57
+1500,financing   toyota camry le * warranty b/o,6615,2007,toyota,12
+1501,b/o near mint  fiat 500 pop hatch back * warranty,4700,2015,fiat,4
+1502,rare matching #’s  1/2 ford - mustang financing,8000,1964,ford,55
+1503,super mint  chrysler prowler  / won’t disappoint!! b/o,20000,2002,chrysler,17
+1504,rare  chevrolet c-10 long bed  *cherry body* financing available,6000,1969,chevrolet,50
+1505,b/o “ultra mint”  toyota tacoma 1/2 cab trd lifetime free labor warranty b/o,15500,2008,toyota,11
+1506, ford mustang v-6,3000,2005,ford,14
+1508, bmw 6-series,121432,1979,bmw,40
+1509,mazda - 3  lowering kit- ,1575,2014,mazda,5
+1510, honda accord,3200,2003,honda,16
+1511,chevrolet - silverado 4x4 lt 47k - ,26999,2011,chevrolet,8
+1513, volvo 850,1050,1997,volvo,22
+1514, toyota camry blue sedan,17630,2017,toyota,2
+1516, bmw 3 series,3500,2004,bmw,15
+1517,lexus - gs - ,5400,2007,lexus,12
+1519, chevy chevrolet equinox silver ice metallic hatchback,19190,2018,chevrolet,1
+1520, gmc yukon,3500,1999,gmc,20
+1521, mercedes-benz c-class,5000,2004,mercedes-benz,15
+1522, gmc sierra,5999,1999,gmc,20
+1523,chrysler - 200 - ,7900,2016,chrysler,3
+1524, jeep renegade anvil hatchback,19430,2017,jeep,2
+1525, chevrolet malibu ltz,5500,2012,chevrolet,7
+1526, nissan pathfinder silver hatchback,15630,2015,nissan,4
+1527, infiniti g35,2700,2005,infiniti,14
+1528, acura tsx,13500,2010,acura,9
+1529, vw volkswagen jetta sedan white sedan,12980,2015,volkswagen,4
+1530,cadillac - sedan de ville - ,3000,1965,cadillac,54
+1531,bmw x3 ,13995,2011,bmw,8
+1532,mazda-cx-7-,6990,2007,mazda,12
+1533, chevrolet avalanche,9000,2008,chevrolet,11
+1534, dodge journey pitch black clearcoat hatchback,17700,2018,dodge,1
+1535, toyota corolla,1200,2001,toyota,18
+1536, dodge charger for sale,8500,2006,dodge,13
+1537,honda civic sdn ,4500,2006,honda,13
+1538,ford flex ,7500,2012,ford,7
+1539, porsche 911 carrera 2dr cabriolet,48249,1989,porsche,30
+1540, honda accord,2700,2002,honda,17
+1541,dodge challenger ,23999,2016,dodge,3
+1542,lincoln-ls-,4599,2004,lincoln,15
+1543, - dodge - charger/trade for truck,17000,2013,dodge,6
+1544, honda civic sedan black sedan,19430,2017,honda,2
+1545, nissan 370z for sale,10999,2009,nissan,10
+1546, vw volkswagen gti 4-door autobahn,11950,2012,volkswagen,7
+1548, bmw 325 series,2995,1999,bmw,20
+1549, dodge coronet r/t,81990,1969,dodge,50
+1550, gmc sierra  classic,10000,1981,gmc,38
+1551, hyundai elantra symphony air silver sedan,16710,2017,hyundai,2
+1552, honda accord sedan silver sedan,17020,2016,honda,3
+1554, jeep grand cherokee srt-8,20000,2006,jeep,13
+1556, ford escape se,10991,2013,ford,6
+1557, acura integra,1500,1999,acura,20
+1558,infiniti - q40 - ,22000,2015,infiniti,4
+1559, ford expedition,1700,2006,ford,13
+1560, honda accord sedan gray sedan,17380,2017,honda,2
+1561, bmw 5 series 525i,2500,2003,bmw,16
+1563, nissan sentra s.v. ,7999,2013,nissan,6
+1564,honda - accord - ,6300,2008,honda,11
+1565, toyota prius,5000,2008,toyota,11
+1566, buick regal summit white sedan,17170,2017,buick,2
+1567,kia - sorento - ,3000,2006,kia,13
+1568,jeep grand cherokee ,8999,2010,jeep,9
+1569, lexus nx,34000,2018,lexus,1
+1570,chevrolet express cargo van ,8750,2005,chevrolet,14
+1571, chevrolet p30 step van ,6000,1989,chevrolet,30
+1573,mini cooper hardtop ,12992,2013,mini,6
+1574, chevrolet blazer,7500,1968,chevrolet,51
+1575, kia soul inferno red w/black roof hatchback,16570,2018,kia,1
+1576, toyota prius plugin,13800,2015,toyota,4
+1577, chevrolet suburban,1100,1994,chevrolet,25
+1578, ford mustang gt 2dr fastback,24995,2016,ford,3
+1579,mercedes-benz s-class ,6999,2004,mercedes-benz,15
+1581, volvo v50,3500,2006,volvo,13
+1582, hyundai elantra machine gray sedan,12980,2018,hyundai,1
+1583, mazda mazda5 liquid silver metallic hatchback,12180,2015,mazda,4
+1584, chevy chevrolet malibu silver ice metallic sedan,13000,2013,chevrolet,6
+1585, bmw 3 series,2000,2005,bmw,14
+1586, ford mustang silver convertible,19760,2018,ford,1
+1587, bmw 3 series,2000,2000,bmw,19
+1588,jaguar - xj series - ,3600,2005,jaguar,14
+1589, bmw 3 series,6120,2009,bmw,10
+1590,dodge journey ,12999,2015,dodge,4
+1591, vw volkswagen jetta sedan 2.0l s,10900,2015,volkswagen,4
+1592, subaru legacy 2.5i premium,15500,2016,subaru,3
+1593,alternator -  honda accord ,1966,2000,honda,19
+1594,chevrolet - chevelle malibu - ,13050,1964,chevrolet,55
+1595, audi a4 3.0 cvt,1500,2005,audi,14
+1596, honda accord sport 1.5t,23996,2018,honda,1
+1597, gmc sierra,16499,2007,gmc,12
+1598,lexus - is - ,5700,2008,lexus,11
+1599, gmc terrain crimson red tintcoat hatchback,18240,2017,gmc,2
+1600,mazda cx-5 ,23995,2017,mazda,2
+1601,honda accord cpe ,6950,2012,honda,7
+1602, - honda - civic,3600,1997,honda,22
+1603, gmc sierra ,27400,1969,gmc,50
+1604,acura mdx ,9940,2011,acura,8
+1605,acura - tl - ,3700,2000,acura,19
+1606, ford taurus white sedan,17890,2018,ford,1
+1607,ford escape ,11995,2013,ford,6
+1608, chevrolet nova 383 stroker ,17000,1971,chevrolet,48
+1609, chevrolet suburban,6500,1999,chevrolet,20
+1611, ford f-100,3700,1969,ford,50
+1612, nissan juke bordeaux black hatchback,13710,2014,nissan,5
+1613, ford taurus blue sedan,14250,2015,ford,4
+1614, honda civic,17890,2017,honda,2
